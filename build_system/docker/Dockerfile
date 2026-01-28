@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.23.3
 
 ENV OPENAPPSEC_NANO_AGENT=TRUE
 
